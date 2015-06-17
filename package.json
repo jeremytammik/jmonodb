@@ -3,7 +3,7 @@
   "description": "A basic REST API driven node.js express mongo server sample",
   "version": "1.0.0",
   "dependencies": {
-    "express": "*",
+    "express": "*"
   },
   "files": [
     "LICENSE",
