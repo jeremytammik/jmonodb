@@ -1,7 +1,7 @@
 {
   "name": "jmonodb",
   "description": "A basic REST API driven node.js express mongo server sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "express": "*"
   },
