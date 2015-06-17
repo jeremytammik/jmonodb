@@ -1,0 +1,26 @@
+{
+  "name": "jmonodb",
+  "description": "A basic REST API driven node.js express mongo server sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*",
+  },
+  "files": [
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "contributors": [
+    "Jeremy Tammik <jeremy.tammik@eur.autodesk.com>"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremytammik/jmonodb"
+  }
+}
